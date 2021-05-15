@@ -140,7 +140,7 @@
 									<div class="simplebar-content" style="padding: 0px; height: auto; overflow: hidden;">
 										<li>
 											<a href="#">
-												<div class="drop_avatar"><img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg" alt="" /></div>
+												<div class="drop_avatar"><img src="/img/avatar-1.jpeg" alt="" /></div>
 												<div class="drop_content">
 													<p>
 														<strong>Adrian Mohani</strong> Lorem ipsum dolor cursus
@@ -152,7 +152,7 @@
 										</li>
 										<li>
 											<a href="#">
-												<div class="drop_avatar"><img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" alt="" /></div>
+												<div class="drop_avatar"><img src="/img/avatar-2.jpeg" alt="" /></div>
 												<div class="drop_content">
 													<p>
 														<strong>Stella Johnson</strong> Nonummy nibh euismod
@@ -176,7 +176,7 @@
 										</li>
 										<li>
 											<a href="#">
-												<div class="drop_avatar"><img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg" alt="" /></div>
+												<div class="drop_avatar"><img src="/img/avatar-1.jpeg" alt="" /></div>
 												<div class="drop_content">
 													<p>
 														<strong>Stella Johnson</strong> Nonummy nibh euismod
@@ -237,7 +237,7 @@
 									<div class="simplebar-content" style="padding: 0px; height: auto; overflow: hidden;">
 										<li>
 											<a href="#">
-												<div class="drop_avatar"><img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg" alt="" /></div>
+												<div class="drop_avatar"><img src="/img/avatar-1.jpeg" alt="" /></div>
 												<div class="drop_content">
 													<strong> John menathon </strong> <time> 6:43 PM</time>
 													<p>Lorem ipsum dolor sit amet, consectetur</p>
@@ -246,7 +246,7 @@
 										</li>
 										<li>
 											<a href="#">
-												<div class="drop_avatar"><img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" alt="" /></div>
+												<div class="drop_avatar"><img src="/img/avatar-2.jpeg" alt="" /></div>
 												<div class="drop_content">
 													<strong> Zara Ali </strong> <time>12:43 PM</time>
 													<p>Sediam nonummy nibh euismod tincidunt laoreet dolore</p>
@@ -264,7 +264,7 @@
 										</li>
 										<li>
 											<a href="#">
-												<div class="drop_avatar"><img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg" alt="" /></div>
+												<div class="drop_avatar"><img src="/img/avatar-1.jpeg" alt="" /></div>
 												<div class="drop_content">
 													<strong> John menathon </strong> <time> Sun</time>
 													<p>Namliber tempor cumsoluta nobis eleifend option adipiscing</p>
@@ -273,7 +273,7 @@
 										</li>
 										<li>
 											<a href="#">
-												<div class="drop_avatar"><img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" alt="" /></div>
+												<div class="drop_avatar"><img src="/img/avatar-2.jpeg" alt="" /></div>
 												<div class="drop_content">
 													<strong> Zara Ali </strong> <time> Fri</time>
 													<p>Lorem ipsum dolor sit amet, consectetur</p>
@@ -307,7 +307,7 @@
 				<!-- profile -->
 
 				<a href="#" aria-expanded="false">
-					<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" class="header-avatar" alt="" />
+					<img src="/img/avatar-2.jpeg" class="header-avatar" alt="" />
 				</a>
 				<div uk-drop="mode: click;offset:9" class="header_dropdown profile_dropdown border-t uk-drop">
 					<ul>

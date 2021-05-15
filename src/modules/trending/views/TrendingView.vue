@@ -29,7 +29,7 @@
 						<div
 							class="relative bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transform -rotate-2 hover:rotate-3 transition hover:scale-105 m-1"
 						>
-							<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
+							<img src="/img/avatar-2.jpeg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
 							<a
 								href="#"
 								class=" bg-gray-400 p-2 rounded-full w-8 h-8 flex justify-center items-center text-white border-4 border-white absolute right-2 bottom-0 bg-blue-600"
@@ -44,7 +44,7 @@
 							<div
 								class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transform -rotate-2 hover:rotate-3 transition hover:scale-105 m-1"
 							>
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
+								<img src="/img/avatar-1.jpeg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
 							</div>
 						</a>
 						<a href="profile.html" class="block font-medium text-center text-gray-500 text-x truncate w-24"> Dennis </a>
@@ -94,7 +94,7 @@
 							<div
 								class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transform -rotate-2 hover:rotate-3 transition hover:scale-105 m-1"
 							>
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
+								<img src="/img/avatar-1.jpeg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
 							</div>
 						</a>
 						<a href="profile.html" class="block font-medium text-center text-gray-500 text-x truncate w-24"> Jonathan </a>
@@ -104,7 +104,7 @@
 							<div
 								class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transform -rotate-2 hover:rotate-3 transition hover:scale-105 m-1"
 							>
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
+								<img src="/img/avatar-2.jpeg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
 							</div>
 						</a>
 						<a href="profile.html" class="block font-medium text-center text-gray-500 text-x truncate w-24"> Dennis </a>
@@ -338,7 +338,7 @@
 					<li tabindex="-1" class="">
 						<div class="bg-gray-200 max-w-full lg:h-64 h-52 rounded-lg relative overflow-hidden">
 							<a href="profile.html">
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg" class="w-full h-full absolute object-cover inset-0" />
+								<img src="/img/avatar-1.jpeg" class="w-full h-full absolute object-cover inset-0" />
 							</a>
 							<a
 								href="#"
@@ -423,7 +423,7 @@
 							<div
 								class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transform -rotate-2 hover:rotate-3 transition hover:scale-105 m-0.5 mr-2"
 							>
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" class="bg-gray-200 border border-white rounded-full w-8" />
+								<img src="/img/avatar-2.jpeg" class="bg-gray-200 border border-white rounded-full w-8" />
 							</div>
 							<div>James Lewis</div>
 						</a>
@@ -447,7 +447,7 @@
 							<div
 								class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transform -rotate-2 hover:rotate-3 transition hover:scale-105 m-0.5 mr-2"
 							>
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" class="bg-gray-200 border border-white rounded-full w-8" />
+								<img src="/img/avatar-2.jpeg" class="bg-gray-200 border border-white rounded-full w-8" />
 							</div>
 							<div>James Lewis</div>
 						</a>
@@ -478,7 +478,7 @@
 							<div
 								class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transform -rotate-2 hover:rotate-3 transition hover:scale-105 m-0.5 mr-2"
 							>
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" class="bg-gray-200 border border-white rounded-full w-8" />
+								<img src="/img/avatar-2.jpeg" class="bg-gray-200 border border-white rounded-full w-8" />
 							</div>
 							<div>John Michael</div>
 						</a>
@@ -504,7 +504,7 @@
 							<div
 								class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transform -rotate-2 hover:rotate-3 transition hover:scale-105 m-0.5 mr-2"
 							>
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" class="bg-gray-200 border border-white rounded-full w-8" />
+								<img src="/img/avatar-2.jpeg" class="bg-gray-200 border border-white rounded-full w-8" />
 							</div>
 							<div>Monroe Parker</div>
 						</a>
@@ -528,7 +528,7 @@
 							<div
 								class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transform -rotate-2 hover:rotate-3 transition hover:scale-105 m-0.5 mr-2"
 							>
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" class="bg-gray-200 border border-white rounded-full w-8" />
+								<img src="/img/avatar-2.jpeg" class="bg-gray-200 border border-white rounded-full w-8" />
 							</div>
 							<div>Martin Gray</div>
 						</a>
@@ -553,7 +553,7 @@
 							<div
 								class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transform -rotate-2 hover:rotate-3 transition hover:scale-105 m-0.5 mr-2"
 							>
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" class="bg-gray-200 border border-white rounded-full w-8" />
+								<img src="/img/avatar-2.jpeg" class="bg-gray-200 border border-white rounded-full w-8" />
 							</div>
 							<div>Jesse Stevens</div>
 						</a>
@@ -606,7 +606,7 @@
 			<div>
 				<div class="bg-green-400 max-w-full lg:h-56 h-48 rounded-lg relative overflow-hidden shadow uk-transition-toggle">
 					<a href="#story-modal" uk-toggle="">
-						<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg" class="w-full h-full absolute object-cover inset-0" />
+						<img src="/img/avatar-1.jpeg" class="w-full h-full absolute object-cover inset-0" />
 					</a>
 					<div
 						class="flex flex-1 items-center absolute bottom-0 w-full p-3 text-white custom-overly1 uk-transition-slide-bottom-medium"

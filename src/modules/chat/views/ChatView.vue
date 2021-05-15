@@ -21,7 +21,7 @@
 						<li>
 							<a href="#" class="block flex items-center py-3 px-4 space-x-3 hover:bg-gray-100 dark:hover:bg-gray-700">
 								<div class="w-12 h-12 rounded-full relative flex-shrink-0">
-									<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" alt="" class="absolute h-full rounded-full w-full" />
+									<img src="/img/avatar-2.jpeg" alt="" class="absolute h-full rounded-full w-full" />
 									<span
 										class="absolute bg-green-500 border-2 border-white bottom-0 h-3 m-0.5 right-0 rounded-full shadow-md w-3"
 									></span>
@@ -36,7 +36,7 @@
 						<li>
 							<a href="#" class="block flex items-center py-3 px-4 space-x-3 bg-gray-100 dark:bg-gray-700">
 								<div class="w-12 h-12 rounded-full relative flex-shrink-0">
-									<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg" alt="" class="absolute h-full rounded-full w-full" />
+									<img src="/img/avatar-1.jpeg" alt="" class="absolute h-full rounded-full w-full" />
 									<span
 										class="absolute bg-green-500 border-2 border-white bottom-0 h-3 m-0.5 right-0 rounded-full shadow-md w-3"
 									></span>
@@ -81,7 +81,7 @@
 						<li>
 							<a href="#" class="block flex items-center py-3 px-4 space-x-3 hover:bg-gray-100 dark:hover:bg-gray-700">
 								<div class="w-12 h-12 rounded-full relative flex-shrink-0">
-									<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" alt="" class="absolute h-full rounded-full w-full" />
+									<img src="/img/avatar-2.jpeg" alt="" class="absolute h-full rounded-full w-full" />
 									<span
 										class="absolute bg-green-500 border-2 border-white bottom-0 h-3 m-0.5 right-0 rounded-full shadow-md w-3"
 									></span>
@@ -102,7 +102,7 @@
 				<div class="px-5 py-4 flex uk-flex-between">
 					<a href="#" class="flex items-center space-x-3">
 						<div class="w-10 h-10 rounded-full relative flex-shrink-0">
-							<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg" alt="" class="h-full rounded-full w-full" />
+							<img src="/img/avatar-1.jpeg" alt="" class="h-full rounded-full w-full" />
 							<span
 								class="absolute bg-green-500 border-2 border-white bottom-0 h-3 m-0.5 right-0 rounded-full shadow-md w-3"
 							></span>
@@ -126,7 +126,7 @@
 						<!-- my message-->
 						<div class="flex lg:items-center flex-row-reverse">
 							<div class="w-14 h-14 rounded-full relative flex-shrink-0">
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" alt="" class="absolute h-full rounded-full w-full" />
+								<img src="/img/avatar-2.jpeg" alt="" class="absolute h-full rounded-full w-full" />
 							</div>
 							<div class="text-white py-2 px-3 rounded bg-blue-600 relative h-full lg:mr-5 mr-2 lg:ml-20">
 								<p class="leading-6">
@@ -141,7 +141,7 @@
 
 						<div class="flex lg:items-center">
 							<div class="w-14 h-14 rounded-full relative flex-shrink-0">
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg" alt="" class="absolute h-full rounded-full w-full" />
+								<img src="/img/avatar-1.jpeg" alt="" class="absolute h-full rounded-full w-full" />
 							</div>
 							<div
 								class="text-gray-700 py-2 px-3 rounded bg-gray-100 h-full relative lg:ml-5 ml-2 lg:mr-20 dark:bg-gray-700 dark:text-white"
@@ -156,7 +156,7 @@
 						<!-- my message-->
 						<div class="flex lg:items-center flex-row-reverse">
 							<div class="w-14 h-14 rounded-full relative flex-shrink-0">
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" alt="" class="absolute h-full rounded-full w-full" />
+								<img src="/img/avatar-2.jpeg" alt="" class="absolute h-full rounded-full w-full" />
 							</div>
 							<div class="text-white py-2 px-3 rounded bg-blue-600 relative h-full lg:mr-5 mr-2 lg:ml-20">
 								<p class="leading-6">
@@ -169,7 +169,7 @@
 						<h3 class="lg:w-60 mx-auto text-sm uk-heading-line uk-text-center lg:pt-2"><span> 28 June, 2018 </span></h3>
 						<div class="flex lg:items-center flex-row-reverse">
 							<div class="w-14 h-14 rounded-full relative flex-shrink-0">
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" alt="" class="absolute h-full rounded-full w-full" />
+								<img src="/img/avatar-2.jpeg" alt="" class="absolute h-full rounded-full w-full" />
 							</div>
 							<div class="text-white py-2 px-3 rounded bg-blue-600 relative h-full lg:mr-5 mr-2 lg:ml-20">
 								<p class="leading-6">consectetuer adipiscing elit, sed diam nonummy nibh euismod laoreet dolore magna.</p>
@@ -181,7 +181,7 @@
 
 						<div class="flex lg:items-center">
 							<div class="w-14 h-14 rounded-full relative flex-shrink-0">
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg" alt="" class="absolute h-full rounded-full w-full" />
+								<img src="/img/avatar-1.jpeg" alt="" class="absolute h-full rounded-full w-full" />
 							</div>
 							<div
 								class="text-gray-700 py-2 px-3 rounded bg-gray-100 relative h-full lg:ml-5 ml-2 lg:mr-20 dark:bg-gray-700 dark:text-white"
@@ -195,7 +195,7 @@
 
 						<div class="flex lg:items-center flex-row-reverse">
 							<div class="w-14 h-14 rounded-full relative flex-shrink-0">
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" alt="" class="absolute h-full rounded-full w-full" />
+								<img src="/img/avatar-2.jpeg" alt="" class="absolute h-full rounded-full w-full" />
 							</div>
 							<div class="text-white py-2 px-3 rounded bg-blue-600 relative h-full lg:mr-5 mr-2 lg:ml-20">
 								<p class="leading-6">quis nostrud exerci tation ullamcorper suscipit .</p>
@@ -205,7 +205,7 @@
 
 						<div class="flex lg:items-center">
 							<div class="w-14 h-14 rounded-full relative flex-shrink-0">
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg" alt="" class="absolute h-full rounded-full w-full" />
+								<img src="/img/avatar-1.jpeg" alt="" class="absolute h-full rounded-full w-full" />
 							</div>
 							<div
 								class="text-gray-700 py-2 px-3 rounded bg-gray-100 relative h-full lg:ml-5 ml-2 lg:mr-20 dark:bg-gray-700 dark:text-white"

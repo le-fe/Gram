@@ -11,7 +11,7 @@
 			<div class="flex items-center justify-between py-3">
 				<div class="flex flex-1 items-center space-x-4">
 					<a href="profile.html">
-						<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" class="bg-gray-200 rounded-full w-10 h-10" />
+						<img src="/img/avatar-2.jpeg" class="bg-gray-200 rounded-full w-10 h-10" />
 					</a>
 					<div class="flex flex-col">
 						<span class="block capitalize font-semibold"> Johnson smith </span>
@@ -29,7 +29,7 @@
 			<div class="flex items-center justify-between py-3">
 				<div class="flex flex-1 items-center space-x-4">
 					<a href="profile.html">
-						<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg" class="bg-gray-200 rounded-full w-10 h-10" />
+						<img src="/img/avatar-1.jpeg" class="bg-gray-200 rounded-full w-10 h-10" />
 					</a>
 					<div class="flex flex-col">
 						<span class="block capitalize font-semibold"> James Lewis </span>

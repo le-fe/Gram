@@ -28,7 +28,7 @@
 							<div class="flex flex-col items-center my-6 uk-visible@s">
 								<div class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transition m-0.5 mr-2  w-24 h-24">
 									<img
-										src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg"
+										src="/img/avatar-2.jpeg"
 										class="bg-gray-200 border-4 border-white rounded-full w-full h-full"
 									/>
 								</div>

@@ -5,7 +5,7 @@
 			<div class="flex flex-1 items-center space-x-4">
 				<a href="#">
 					<div class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-0.5 rounded-full">
-						<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg" class="bg-gray-200 border border-white rounded-full w-8 h-8" />
+						<img src="/img/avatar-2.jpeg" class="bg-gray-200 border border-white rounded-full w-8 h-8" />
 					</div>
 				</a>
 				<span class="block capitalize font-semibold dark:text-gray-100"> Johnson smith </span>
@@ -71,8 +71,8 @@
 		</div>
 
 		<div uk-lightbox="">
-			<a href="http://demo.foxthemes.net/instellohtml/assets/images/post/img4.jpg">
-				<img src="http://demo.foxthemes.net/instellohtml/assets/images/post/img4.jpg" alt="" />
+			<a href="/img/img4.jpeg">
+				<img src="/img/img4.jpeg" alt="" />
 			</a>
 		</div>
 
@@ -133,7 +133,7 @@
 			<div class="flex items-center space-x-3">
 				<div class="flex items-center">
 					<img
-						src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg"
+						src="/img/avatar-1.jpeg"
 						alt=""
 						class="w-6 h-6 rounded-full border-2 border-white dark:border-gray-900"
 					/>
@@ -143,7 +143,7 @@
 						class="w-6 h-6 rounded-full border-2 border-white dark:border-gray-900 -ml-2"
 					/>
 					<img
-						src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-2.jpg"
+						src="/img/avatar-2.jpeg"
 						alt=""
 						class="w-6 h-6 rounded-full border-2 border-white dark:border-gray-900 -ml-2"
 					/>
@@ -154,7 +154,7 @@
 			<div class="border-t pt-4 space-y-4 dark:border-gray-600">
 				<div class="flex">
 					<div class="w-10 h-10 rounded-full relative flex-shrink-0">
-						<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg" alt="" class="absolute h-full rounded-full w-full" />
+						<img src="/img/avatar-1.jpeg" alt="" class="absolute h-full rounded-full w-full" />
 					</div>
 					<div
 						class="text-gray-700 py-2 px-3 rounded-md bg-gray-100 h-full relative lg:ml-5 ml-2 lg:mr-20  dark:bg-gray-800 dark:text-gray-100"
@@ -167,7 +167,7 @@
 				</div>
 				<div class="flex">
 					<div class="w-10 h-10 rounded-full relative flex-shrink-0">
-						<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg" alt="" class="absolute h-full rounded-full w-full" />
+						<img src="/img/avatar-1.jpeg" alt="" class="absolute h-full rounded-full w-full" />
 					</div>
 					<div
 						class="text-gray-700 py-2 px-3 rounded-md bg-gray-100 h-full relative lg:ml-5 ml-2 lg:mr-20  dark:bg-gray-800 dark:text-gray-100"

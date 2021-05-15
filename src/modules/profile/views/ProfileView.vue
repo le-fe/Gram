@@ -281,7 +281,7 @@
 			<div>
 				<div class="bg-red-500 max-w-full lg:h-64 h-40 rounded-md relative overflow-hidden uk-transition-toggle" tabindex="0">
 					<img
-						src="http://demo.foxthemes.net/instellohtml/assets/images/post/img4.jpg"
+						src="/img/img4.jpeg"
 						class="w-full h-full absolute object-cover inset-0"
 					/>
 
@@ -337,7 +337,7 @@
 			<div>
 				<div class="bg-red-500 max-w-full lg:h-64 h-40 rounded-md relative overflow-hidden uk-transition-toggle" tabindex="0">
 					<img
-						src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-1.jpg"
+						src="/img/avatar-1.jpeg"
 						class="w-full h-full absolute object-cover inset-0"
 					/>
 
