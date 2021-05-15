@@ -1,43 +1,10 @@
-@import "tailwindcss/base";
-@import "tailwindcss/components";
-@import "tailwindcss/utilities";
-@charset "UTF-8";
-
-/*
- * Author: Hamse Mohamet
- * URL: http://foxthemes.net
- */
-
-
-/* -------------------------------------------------------------- */
-/* Table of Contents
- -----------------------------------------------------------------
- 
-   #Dark
-   #button
-   #input
-   #switch-button
-   #Common Styles
-   #tippy-tooltip
-   #Simplebar
-   #header
-   #header left-side
-   #header right-side
-   #header_dropdown
-   #sidebar
-   #main_content
-   #market
-   #group-catagroy-card
-   #story-moda    
-
-   *************/
- 
-
 /* -------------------------------------------------------------- */
 /* Import font
 ----------------------------------------------------------------- */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
- 
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
 
 /* -------------------------------------------------------------- */
 /* 04. Dark mode
