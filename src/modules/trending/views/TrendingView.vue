@@ -54,7 +54,7 @@
 							<div
 								class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transform -rotate-2 hover:rotate-3 transition hover:scale-105 m-1"
 							>
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-3.jpg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
+								<img src="/img/avatar-3.jpeg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
 							</div>
 						</a>
 						<a href="profile.html" class="block font-medium text-center text-gray-500 text-x truncate w-24"> Jonathan </a>
@@ -64,7 +64,7 @@
 							<div
 								class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transform -rotate-2 hover:rotate-3 transition hover:scale-105 m-1"
 							>
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-4.jpg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
+								<img src="/img/avatar-4.jpeg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
 							</div>
 						</a>
 						<a href="profile.html" class="block font-medium text-center text-gray-500 text-x truncate w-24"> Stella </a>
@@ -74,7 +74,7 @@
 							<div
 								class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transform -rotate-2 hover:rotate-3 transition hover:scale-105 m-1"
 							>
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-5.jpg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
+								<img src="/img/avatar-5.jpeg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
 							</div>
 						</a>
 
@@ -114,7 +114,7 @@
 							<div
 								class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transform -rotate-2 hover:rotate-3 transition hover:scale-105 m-1"
 							>
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-3.jpg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
+								<img src="/img/avatar-3.jpeg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
 							</div>
 						</a>
 						<a href="profile.html" class="block font-medium text-center text-gray-500 text-x truncate w-24"> Stella </a>
@@ -124,7 +124,7 @@
 							<div
 								class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transform -rotate-2 hover:rotate-3 transition hover:scale-105 m-1"
 							>
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-4.jpg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
+								<img src="/img/avatar-4.jpeg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
 							</div>
 						</a>
 						<a href="profile.html" class="block font-medium text-center text-gray-500 text-x truncate w-24"> Adrian </a>
@@ -134,7 +134,7 @@
 							<div
 								class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full transform -rotate-2 hover:rotate-3 transition hover:scale-105 m-1"
 							>
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-5.jpg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
+								<img src="/img/avatar-5.jpeg" class="w-20 h-20 rounded-full border-2 border-white bg-gray-200" />
 							</div>
 						</a>
 						<a href="profile.html" class="block font-medium text-center text-gray-500 text-x truncate w-24"> Dennis </a>
@@ -157,7 +157,7 @@
 					<li tabindex="-1" class="uk-active">
 						<div class="bg-gray-200 max-w-full lg:h-64 h-52 rounded-lg relative overflow-hidden">
 							<a href="profile.html">
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/post/img7.jpg" class="w-full h-full absolute object-cover inset-0" />
+								<img src="/img/img7.jpeg" class="w-full h-full absolute object-cover inset-0" />
 							</a>
 							<a
 								href="#"
@@ -247,7 +247,7 @@
 					<li tabindex="-1" class="uk-active">
 						<div class="bg-gray-200 max-w-full lg:h-64 h-52 rounded-lg relative overflow-hidden">
 							<a href="profile.html">
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-4.jpg" class="w-full h-full absolute object-cover inset-0" />
+								<img src="/img/avatar-4.jpeg" class="w-full h-full absolute object-cover inset-0" />
 							</a>
 							<a
 								href="#"
@@ -292,7 +292,7 @@
 					<li tabindex="-1" class="uk-active">
 						<div class="bg-gray-200 max-w-full lg:h-64 h-52 rounded-lg relative overflow-hidden">
 							<a href="profile.html">
-								<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-7.jpg" class="w-full h-full absolute object-cover inset-0" />
+								<img src="/img/avatar-7.jpeg" class="w-full h-full absolute object-cover inset-0" />
 							</a>
 							<a
 								href="#"
@@ -438,7 +438,7 @@
 			<div>
 				<div class="bg-green-400 max-w-full lg:h-72 h-48 rounded-lg relative overflow-hidden shadow uk-transition-toggle">
 					<a href="#story-modal" uk-toggle="">
-						<img src="http://demo.foxthemes.net/instellohtml/assets/images/post/img2.jpg" class="w-full h-full absolute object-cover inset-0" />
+						<img src="/img/img2.jpeg" class="w-full h-full absolute object-cover inset-0" />
 					</a>
 					<div
 						class="flex flex-1 items-center absolute bottom-0 w-full p-3 text-white custom-overly1 uk-transition-slide-bottom-medium"
@@ -462,7 +462,7 @@
 			<div>
 				<div class="bg-yellow-400 max-w-full lg:h-60 h-48 rounded-lg relative overflow-hidden shadow uk-transition-toggle">
 					<a href="#story-modal" uk-toggle="">
-						<img src="http://demo.foxthemes.net/instellohtml/assets/images/post/img3.jpg" class="w-full h-full absolute object-cover inset-0" />
+						<img src="/img/img3.jpeg" class="w-full h-full absolute object-cover inset-0" />
 					</a>
 					<a
 						href="#story-modal"
@@ -495,7 +495,7 @@
 					class="bg-pink-400 max-w-full lg:h-72 h-48 rounded-lg relative overflow-hidden shadow uk-transition-toggle lg:-mt-12"
 				>
 					<a href="#story-modal" uk-toggle="">
-						<img src="http://demo.foxthemes.net/instellohtml/assets/images/post/img7.jpg" class="w-full h-full absolute object-cover inset-0" />
+						<img src="/img/img7.jpeg" class="w-full h-full absolute object-cover inset-0" />
 					</a>
 					<div
 						class="flex flex-1 items-center absolute bottom-0 w-full p-3 text-white custom-overly1 uk-transition-slide-bottom-medium"
@@ -519,7 +519,7 @@
 			<div>
 				<div class="bg-purple-400 max-w-full lg:h-60 h-48 rounded-lg relative overflow-hidden shadow uk-transition-toggle">
 					<a href="#story-modal" uk-toggle="">
-						<img src="http://demo.foxthemes.net/instellohtml/assets/images/post/img5.jpg" class="w-full h-full absolute object-cover inset-0" />
+						<img src="/img/img5.jpeg" class="w-full h-full absolute object-cover inset-0" />
 					</a>
 					<div
 						class="flex flex-1 items-center absolute bottom-0 w-full p-3 text-white custom-overly1 uk-transition-slide-bottom-medium"
@@ -570,7 +570,7 @@
 			<div>
 				<div class="bg-red-400 max-w-full lg:h-56 h-48 rounded-lg relative overflow-hidden shadow uk-transition-toggle">
 					<a href="#story-modal" uk-toggle="">
-						<img src="http://demo.foxthemes.net/instellohtml/assets/images/post/img2.jpg" class="w-full h-full absolute object-cover inset-0 scale-150 transform" />
+						<img src="/img/img2.jpeg" class="w-full h-full absolute object-cover inset-0 scale-150 transform" />
 					</a>
 					<div
 						class="flex flex-1 items-center absolute bottom-0 w-full p-3 text-white custom-overly1 uk-transition-slide-bottom-medium"
@@ -624,7 +624,7 @@
 			<div>
 				<div class="bg-blue-400 max-w-full lg:h-56 h-48 rounded-lg relative overflow-hidden shadow uk-transition-toggle">
 					<a href="#story-modal" uk-toggle="">
-						<img src="http://demo.foxthemes.net/instellohtml/assets/images/post/img7.jpg" class="w-full h-full absolute object-cover inset-0" />
+						<img src="/img/img7.jpeg" class="w-full h-full absolute object-cover inset-0" />
 					</a>
 					<div
 						class="flex flex-1 items-center absolute bottom-0 w-full p-3 text-white custom-overly1 uk-transition-slide-bottom-medium"

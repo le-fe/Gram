@@ -3,7 +3,7 @@
 		<div class="max-w-6xl mx-auto">
 			<div class="flex items-center lg:justify-between justify-around">
 				<router-link to="/">
-					<img src="http://demo.foxthemes.net/instellohtml/assets/images/logo.png" alt="" class="w-32" />
+					<img src="/img/logo.png" alt="" class="w-32" />
 				</router-link>
 
 				<div class="capitalize flex font-semibold hidden lg:block my-2 space-x-3 text-center text-sm">

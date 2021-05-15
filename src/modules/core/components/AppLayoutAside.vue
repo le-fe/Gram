@@ -2,8 +2,8 @@
 	<div class="sidebar">
 		<div class="sidebar_header border-b border-gray-200 from-gray-100 to-gray-50 bg-gradient-to-t  uk-visible@s">
 			<a href="#">
-				<img src="http://demo.foxthemes.net/instellohtml/assets/images/logo.png" />
-				<img src="http://demo.foxthemes.net/instellohtml/assets/images/logo-light.png" class="logo_inverse" />
+				<img src="/img/logo.png" />
+				<img src="/img/logo-light.png" class="logo_inverse" />
 			</a>
 			<!-- btn night mode -->
 			<a

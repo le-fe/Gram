@@ -36,7 +36,7 @@
                     <div class="lg:col-span-2 lg:row-span-2">
                         <div class="bg-pink-400 h-full max-w-full overflow-hidden relative rounded-md uk-transition-toggle shadow-sm"> 
                             <a href="#story-modal" uk-toggle="">
-                                <img src="http://demo.foxthemes.net/instellohtml/assets/images/post/img2.jpg" class="w-full h-full absolute object-cover inset-0 transform scale-125">
+                                <img src="/img/img2.jpeg" class="w-full h-full absolute object-cover inset-0 transform scale-125">
                             </a>
                             <div class="absolut absolute bottom-0 p-6 space-y-2 text-white w-full custom-overly1 uk-light lg:block hidden">   
                                 <div class="flex flex-1 items-center space-x-2">
@@ -125,7 +125,7 @@
                     <div>
                         <div class="bg-green-400 max-w-full lg:h-64 h-40 rounded-md relative overflow-hidden shadow-sm"> 
                             <a href="#story-modal" uk-toggle="">
-                                <img src="http://demo.foxthemes.net/instellohtml/assets/images/post/img3.jpg" class="w-full h-full absolute object-cover inset-0">
+                                <img src="/img/img3.jpeg" class="w-full h-full absolute object-cover inset-0">
                             </a>
                             <div class="absolut absolute bottom-0 flex items-center justify-between px-4 py-3 space-x-2 text-white w-full custom-overly1">   
                                 <a href="#">Johnson </a>  
@@ -153,7 +153,7 @@
                     <div>
                         <div class="bg-yellow-400 max-w-full lg:h-64 h-40 rounded-md relative overflow-hidden shadow-sm"> 
                             <a href="#story-modal" uk-toggle="">
-                                <img src="http://demo.foxthemes.net/instellohtml/assets/images/post/img5.jpg" class="w-full h-full absolute object-cover inset-0">
+                                <img src="/img/img5.jpeg" class="w-full h-full absolute object-cover inset-0">
                             </a>
                             <div class="absolut absolute bottom-0 flex items-center justify-between px-4 py-3 space-x-2 text-white w-full custom-overly1">   
                                 <a href="#">Monroe  </a>  

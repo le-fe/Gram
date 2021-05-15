@@ -51,7 +51,7 @@
 						<li>
 							<a href="#" class="block flex items-center py-3 px-4 space-x-3 hover:bg-gray-100 dark:hover:bg-gray-700">
 								<div class="w-12 h-12 rounded-full relative flex-shrink-0">
-									<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-5.jpg" alt="" class="absolute h-full rounded-full w-full" />
+									<img src="/img/avatar-5.jpeg" alt="" class="absolute h-full rounded-full w-full" />
 									<span
 										class="absolute bg-gray-300 border-2 border-white bottom-0 h-3 m-0.5 right-0 rounded-full shadow-md w-3"
 									></span>
@@ -66,7 +66,7 @@
 						<li>
 							<a href="#" class="block flex items-center py-3 px-4 space-x-3 hover:bg-gray-100 dark:hover:bg-gray-700">
 								<div class="w-12 h-12 rounded-full relative flex-shrink-0">
-									<img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-4.jpg" alt="" class="absolute h-full rounded-full w-full" />
+									<img src="/img/avatar-4.jpeg" alt="" class="absolute h-full rounded-full w-full" />
 									<span
 										class="absolute bg-green-500 border-2 border-white bottom-0 h-3 m-0.5 right-0 rounded-full shadow-md w-3"
 									></span>

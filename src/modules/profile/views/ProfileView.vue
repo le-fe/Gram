@@ -7,7 +7,7 @@
 					class="bg-gradient-to-tr from-yellow-600 to-pink-600 p-1 rounded-full m-0.5 mr-2  w-56 h-56 relative overflow-hidden uk-transition-toggle"
 				>
 					<img
-						src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-7.jpg"
+						src="/img/avatar-7.jpeg"
 						class="bg-gray-200 border-4 border-white rounded-full w-full h-full dark:border-gray-900"
 					/>
 
@@ -125,14 +125,14 @@
 			</a>
 			<a href="#story-modal" uk-toggle="">
 				<img
-					src="http://demo.foxthemes.net/instellohtml/assets/images/post/img2.jpg"
+					src="/img/img2.jpeg"
 					alt=""
 					class="w-full lg:h-60 h-40 rounded-md object-cover"
 				/>
 			</a>
 			<a href="#story-modal" uk-toggle="">
 				<img
-					src="http://demo.foxthemes.net/instellohtml/assets/images/post/img7.jpg"
+					src="/img/img7.jpeg"
 					alt=""
 					class="w-full lg:h-60 h-40 rounded-md object-cover uk-visible@s"
 				/>
@@ -225,7 +225,7 @@
 			<div>
 				<div class="bg-red-500 max-w-full lg:h-64 h-40 rounded-md relative overflow-hidden uk-transition-toggle" tabindex="0">
 					<img
-						src="http://demo.foxthemes.net/instellohtml/assets/images/post/img2.jpg"
+						src="/img/img2.jpeg"
 						class="w-full h-full absolute object-cover inset-0"
 					/>
 
@@ -253,7 +253,7 @@
 			<div>
 				<div class="bg-red-500 max-w-full lg:h-64 h-40 rounded-md relative overflow-hidden uk-transition-toggle" tabindex="0">
 					<img
-						src="http://demo.foxthemes.net/instellohtml/assets/images/post/img3.jpg"
+						src="/img/img3.jpeg"
 						class="w-full h-full absolute object-cover inset-0"
 					/>
 
@@ -309,7 +309,7 @@
 			<div>
 				<div class="bg-red-500 max-w-full lg:h-64 h-40 rounded-md relative overflow-hidden uk-transition-toggle" tabindex="0">
 					<img
-						src="http://demo.foxthemes.net/instellohtml/assets/images/post/img5.jpg"
+						src="/img/img5.jpeg"
 						class="w-full h-full absolute object-cover inset-0"
 					/>
 

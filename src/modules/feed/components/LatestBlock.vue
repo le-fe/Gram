@@ -11,7 +11,7 @@
 			<div class="grid grid-cols-2 gap-2 p-3 uk-link-reset">
 				<div class="bg-red-500 max-w-full h-32 rounded-lg relative overflow-hidden uk-transition-toggle">
 					<a href="#story-modal" uk-toggle="">
-						<img src="http://demo.foxthemes.net/instellohtml/assets/images/post/img2.jpg" class="w-full h-full absolute object-cover inset-0" />
+						<img src="/img/img2.jpeg" class="w-full h-full absolute object-cover inset-0" />
 					</a>
 					<div
 						class="flex flex-1 justify-around items-center absolute bottom-0 w-full p-2 text-white custom-overly1 uk-transition-slide-bottom-medium"
@@ -23,7 +23,7 @@
 
 				<div class="bg-red-500 max-w-full h-40 rounded-lg relative overflow-hidden uk-transition-toggle">
 					<a href="#story-modal" uk-toggle="">
-						<img src="http://demo.foxthemes.net/instellohtml/assets/images/post/img7.jpg" class="w-full h-full absolute object-cover inset-0" />
+						<img src="/img/img7.jpeg" class="w-full h-full absolute object-cover inset-0" />
 					</a>
 					<div
 						class="flex flex-1 justify-around items-center absolute bottom-0 w-full p-2 text-white custom-overly1 uk-transition-slide-bottom-medium"
@@ -35,7 +35,7 @@
 
 				<div class="bg-red-500 max-w-full h-40 -mt-8 rounded-lg relative overflow-hidden uk-transition-toggle">
 					<a href="#story-modal" uk-toggle="">
-						<img src="http://demo.foxthemes.net/instellohtml/assets/images/post/img5.jpg" class="w-full h-full absolute object-cover inset-0" />
+						<img src="/img/img5.jpeg" class="w-full h-full absolute object-cover inset-0" />
 					</a>
 					<div
 						class="flex flex-1 justify-around  items-center absolute bottom-0 w-full p-2 text-white custom-overly1 uk-transition-slide-bottom-medium"
@@ -47,7 +47,7 @@
 
 				<div class="bg-red-500 max-w-full h-32 rounded-lg relative overflow-hidden uk-transition-toggle">
 					<a href="#story-modal" uk-toggle="">
-						<img src="http://demo.foxthemes.net/instellohtml/assets/images/post/img3.jpg" class="w-full h-full absolute object-cover inset-0" />
+						<img src="/img/img3.jpeg" class="w-full h-full absolute object-cover inset-0" />
 					</a>
 					<div
 						class="flex flex-1 justify-around  items-center absolute bottom-0 w-full p-2 text-white custom-overly1 uk-transition-slide-bottom-medium"

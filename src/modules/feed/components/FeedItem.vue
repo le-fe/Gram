@@ -138,7 +138,7 @@
 						class="w-6 h-6 rounded-full border-2 border-white dark:border-gray-900"
 					/>
 					<img
-						src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-4.jpg"
+						src="/img/avatar-4.jpeg"
 						alt=""
 						class="w-6 h-6 rounded-full border-2 border-white dark:border-gray-900 -ml-2"
 					/>

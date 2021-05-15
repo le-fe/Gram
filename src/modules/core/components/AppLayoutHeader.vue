@@ -164,7 +164,7 @@
 										</li>
 										<li>
 											<a href="#">
-												<div class="drop_avatar"><img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-3.jpg" alt="" /></div>
+												<div class="drop_avatar"><img src="/img/avatar-3.jpeg" alt="" /></div>
 												<div class="drop_content">
 													<p>
 														<strong>Alex Dolgove</strong> Lorem ipsum dolor cursus
@@ -188,7 +188,7 @@
 										</li>
 										<li>
 											<a href="#">
-												<div class="drop_avatar"><img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-3.jpg" alt="" /></div>
+												<div class="drop_avatar"><img src="/img/avatar-3.jpeg" alt="" /></div>
 												<div class="drop_content">
 													<p>
 														<strong>Alex Dolgove</strong> Lorem ipsum dolor cursus
@@ -255,7 +255,7 @@
 										</li>
 										<li>
 											<a href="#">
-												<div class="drop_avatar"><img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-3.jpg" alt="" /></div>
+												<div class="drop_avatar"><img src="/img/avatar-3.jpeg" alt="" /></div>
 												<div class="drop_content">
 													<strong> Mohamed Ali </strong> <time> Wed </time>
 													<p>Lorem ipsum dolor sit amet, consectetur</p>
@@ -282,7 +282,7 @@
 										</li>
 										<li>
 											<a href="#">
-												<div class="drop_avatar"><img src="http://demo.foxthemes.net/instellohtml/assets/images/avatars/avatar-3.jpg" alt="" /></div>
+												<div class="drop_avatar"><img src="/img/avatar-3.jpeg" alt="" /></div>
 												<div class="drop_content">
 													<strong> Mohamed Ali </strong> <time>1 Week ago</time>
 													<p>Sediam nonummy nibh euismod tincidunt laoreet dolore</p>
